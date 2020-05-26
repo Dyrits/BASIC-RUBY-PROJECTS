@@ -1,7 +1,9 @@
 # Ceasar Cipher
 
+## More about this project
+
 ### Related course
-THE ODIN PROJECT | RUBY PROGRAMMING > Basic Ruby Project  
+THE ODIN PROJECT | RUBY PROGRAMMING: Basic Ruby Project  
 [Project: Caesar Cipher](https://www.theodinproject.com/courses/ruby-programming/lessons/caesar-cipher)
 
 ### Technologies | Libraries | Frameworks | Tools  
